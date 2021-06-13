@@ -1,0 +1,17 @@
+.main
+{
+    text-align: center;
+    margin: 20% 20% 20% 20%;
+    font-size: 200%;
+
+}
+body
+{
+    background-color: rgb(119, 113, 207);
+}
+button
+{
+    border-radius: 10px;
+    font-size: large;
+  margin-left: 3%;
+}
